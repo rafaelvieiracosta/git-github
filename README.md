@@ -21,9 +21,9 @@ __*ItálicoNegrito*__
    * SubPonto 2
 
 
-- [] Criar tal coisa
-- [] Fazel tal coisa
-- [] Pegar tal coisa
+- [ ] Criar tal coisa
+- [ ] Fazel tal coisa
+- [ ] Pegar tal coisa
 
 [Acesse tal link](https://github.com/rafaelvieiracosta) 
 
