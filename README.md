@@ -29,3 +29,7 @@ __*ItálicoNegrito*__
 
 [Acesse tal link](https://github.com/rafaelvieiracosta) 
 
+Num | Nome | Nota
+1 | Gustavo | 7,4
+2 | Josh | 7,0
+
