@@ -8,9 +8,11 @@ Linha inserida diretamente no Github
 
 **Aprendendo Markdown**
 
-**Negrito**
-_Itálico_
+**Negrito** ---
+_Itálico_ ---
+
 __*ItálicoNegrito*__
+~~Traçado~~
 
 # h1
 ## h2
