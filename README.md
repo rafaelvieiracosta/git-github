@@ -34,3 +34,10 @@ Num | Nome | Nota
 1 | Gustavo | 7,4
 2 | Josh | 7,0
 
+Tal comando
+'''
+x = 8
+print(x)
+'''
+
+Olá! :hand:
